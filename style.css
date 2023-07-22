@@ -166,7 +166,7 @@ button{
     width: 400px;
 }
 .section1{
-    background-image: url(/images/backgroundimg.png);
+    background-image: url(backgroundimg.png);
     margin: 20px;
     border-radius: 50px;
     height: 500px;
